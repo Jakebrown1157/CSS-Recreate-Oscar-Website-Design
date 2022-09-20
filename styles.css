@@ -1,0 +1,53 @@
+
+.container{
+    width:100%;
+    height:100%
+}
+/*header*/
+header{
+  width:100vw;
+  height:2vh;
+  display: flex;
+  padding: 0.6em;
+  background-color: black;
+  color: white;
+  font-size: 14px;
+}
+header > div{
+    padding-left: 3em;
+    position: relative;
+    left: 55em;
+}
+
+/*nav bar*/
+nav {
+    display: flex;
+    width: 100%;
+    height: 55vh;
+    background-image: url(Css-Recreate-Oscar-website/assets/images/hero.png);
+    background-color: lightgray;
+    justify-content: center;
+    font-family: serif;
+}
+ul{
+    display:flex;
+    margin-left: 2em;
+    padding-left: 5em;
+    padding-right: 5em;
+    height: 20px;
+    list-style: none;
+}
+img{
+    width: 100vw;
+}
+.shop-button{
+  position: relative;
+  left: 10em;
+}
+
+
+
+
+/*main*/
+
+/*section*/
